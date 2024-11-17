@@ -1,4 +1,5 @@
 # KidPay
+![KidPay0](https://github.com/user-attachments/assets/1986f9cc-f006-405c-976e-5493f3d33a90)
 
 *KidPay is the payment app preferred by children to learn how to spend like grownups. Sign up under a minute, with instant deposits and controlled spending*
 
